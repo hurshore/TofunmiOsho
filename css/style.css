@@ -10,11 +10,11 @@ body {
 }
 
 .card {
-   margin: auto;
+   margin: 35px auto;
    padding: 30px 40px;
    background-color: #fff;
    width: 350px;
-   border-radius: 25px
+   border-radius: 25px 25px 25px 0;
 }
 
 .logo {
